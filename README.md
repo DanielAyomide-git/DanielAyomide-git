@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielAyomide-git
 - 👀 I’m interested in frontend, backend and AI
-- 🌱 I’m currently learning to integrate GenAI with wiftware development
+- 🌱 I’m currently learning to integrate GenAI with software development
 
 
 <!---
