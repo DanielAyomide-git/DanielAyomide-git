@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @DanielAyomide-git
-- 👀 I’m interested in python, java, node js frameworks like Angular and React JS, and postgress for App development and AI
-- 🌱 I’m currently learning Mathematics and AI.
-- My community contribution ATM is a cancer detection AI.
-- I will like to build it into a more sophisticated opensource healthcare AI.
-- You can show your interest by mailing me lanredaniel377@gmail.com
+👋 Hi, I’m @DanielAyomide-git
+
+🔍 I’m passionate about software development and artificial intelligence, with a focus on Python, Java, Node.js frameworks (such as Angular and React.js), and PostgreSQL for app development and AI solutions.
+
+📚 I’m currently expanding my knowledge in Mathematics and Artificial Intelligence.
+
+💡 I’m contributing to the development of a cancer detection AI, which I aim to evolve into a more advanced open-source healthcare solution.
+
+📬 Interested in collaborating? Feel free to reach out to me at lanredaniel377@gmail.com.
 
 
 <!---
