@@ -1,15 +1,17 @@
-👋 Hi, I’m @DanielAyomide-git
+👋 Hi, I’m **@DanielAyomide-git**
 
-🔍 I’m passionate about software development and artificial intelligence, with a focus on Python, Java, Node.js frameworks (such as Angular and React.js), and PostgreSQL for app development and AI solutions.
+💻 I’m a **Full-Stack Developer** and **AI Enthusiast** passionate about building intelligent, data-driven applications that make a real-world impact. My core expertise spans **Python**, **Java**, **Node.js**, **React.js**, **Angular**, and **PostgreSQL**.
 
-📚 I’m currently expanding my knowledge in Mathematics and Artificial Intelligence.
+🚀 **Projects I've Built**
 
-💡 I’m contributing to the development of a cancer detection AI, which I aim to evolve into a more advanced open-source healthcare solution.
+* 🧠 **[AgeArc](https://agearc.app/)** — A full-stack AI and analytics platform integrating advanced data processing and visualization.
+* 💼 **[i-Subscribe](https://i-subscribe.ng/)** — A subscription management and payment automation platform for digital services.
+* 🏛️ **[ICOH Portal](https://icoh.gov.ng/)** — A government-backed digital infrastructure for information management and public engagement.
 
-📬 Interested in collaborating? Feel free to reach out to me at lanredaniel377@gmail.com.
+📚 I’m currently expanding my expertise in **Mathematics** and **Artificial Intelligence**, bridging theoretical foundations with practical systems design.
 
+🧬 I’m also contributing to the development of a **cancer detection AI**, which I aim to evolve into a scalable, open-source healthcare solution.
 
-<!---
-DanielAyomide-git/DanielAyomide-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📬 **Let’s Collaborate!**
+I’m open to collaboration on AI-driven software, data platforms, and intelligent web systems.
+Reach me at: **[lanredaniel377@gmail.com](mailto:lanredaniel377@gmail.com)**
