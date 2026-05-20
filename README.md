@@ -1,9 +1,17 @@
-# Hi there 👋
+# Hi, I'm Daniel Ayomide Olanrewaju
 
-I’m Daniel Ayomide Olanrewaju, an AI for Science researcher and software engineer.
+AI for Science researcher focused on:
 
-- 🔬 Research: quantum computing, Hamiltonian simulation, and generative AI
-- 💻 Engineering: full-stack development with React, FastAPI, and ML workflows
-- 🎓 Teaching: mentoring students and supporting academic tutorials
+- Quantum Computing
+- Generative AI
+- Hamiltonian Simulation
+- Machine Learning for Scientific Discovery
 
-Thanks for visiting my GitHub profile. Feel free to explore my projects and connect with me.
+## Current Work
+- MSc in AI for Science at AIMS South Africa
+- Research in generative Hamiltonian simulation
+- Equivariant transformers and symmetry-aware ML
+
+## Links
+- Portfolio: https://danielayomide-git.github.io/
+- LinkedIn: https://www.linkedin.com/in/daniel-ayomide-olanrewaju-922612174/
