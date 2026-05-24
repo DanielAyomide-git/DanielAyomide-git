@@ -3,6 +3,7 @@
 AI for Science researcher focused on:
 
 - Quantum Computing
+- Quantum Machine Learning
 - Generative AI
 - Hamiltonian Simulation
 - Machine Learning for Scientific Discovery
