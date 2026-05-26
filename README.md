@@ -14,5 +14,5 @@ AI for Science researcher focused on:
 - Equivariant transformers and symmetry-aware ML
 
 ## Links
-- Portfolio: https://danielayomide-git.github.io/
+- Website: https://danielayomide-git.github.io/
 - LinkedIn: https://www.linkedin.com/in/daniel-ayomide-olanrewaju-922612174/
